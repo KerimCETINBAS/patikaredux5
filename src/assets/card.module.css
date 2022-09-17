@@ -1,0 +1,21 @@
+.cardBlue {
+    @apply w-72 h-102 bg-white rounded rounded-md flex flex-col gap-2 p-4  border-b-8;
+    @apply border-b-blue-700 bg-blue-200;
+}
+
+
+.cardGreen {
+    @apply w-72 h-102 bg-white rounded rounded-md flex flex-col gap-2 p-4  border-b-8;
+    @apply border-b-green-700 bg-green-200;
+}
+
+
+.cardRed {
+    @apply w-72 h-102 bg-white rounded rounded-md flex flex-col gap-2 p-4 bg-red-200;
+    @apply border-b-8 border-b-red-700;
+}
+
+
+.cardYellow{
+    @apply w-72 h-102 bg-white rounded rounded-md flex flex-col gap-2 p-4  border-b-8 border-b-yellow-700 bg-yellow-200;
+}
